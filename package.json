@@ -1,0 +1,11 @@
+{
+  "name": "w8ch2",
+  "version": "1.0.0",
+  "description": "Week 8 Challenge 2 - Sueldos medios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio",
+  "license": "ISC"
+}
